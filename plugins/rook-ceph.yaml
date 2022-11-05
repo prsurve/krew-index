@@ -1,6 +1,6 @@
 apiVersion: krew.googlecontainertools.github.com/v1alpha2
 kind: Plugin
-metadata:rook
+metadata:
   name: rook-ceph
 spec:
   version: "v0.4.1"
