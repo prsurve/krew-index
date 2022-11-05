@@ -18,6 +18,7 @@ spec:
         - linux
         - windows
     uri: https://github.com/prsurve/kubectl-rook-ceph/archive/refs/tags/0.4.1.zip
+    sha256: b8cb7b70e89bb8e65595c63084352d5feda5dba45eca208959476241d308fcf6
     files:
     - from: "kubectl-rook-ceph-*/kubectl-rook-ceph.sh"
       to: "."
