@@ -17,7 +17,7 @@ spec:
         - darwin
         - linux
         - windows
-    uri: https://github.com/rook/kubectl-rook-ceph/archive/v0.4.0.zip
+    uri: https://github.com/prsurve/kubectl-rook-ceph/archive/refs/tags/0.4.1.zip
     files:
     - from: "kubectl-rook-ceph-*/kubectl-rook-ceph.sh"
       to: "."
